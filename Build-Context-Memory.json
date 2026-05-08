@@ -1,0 +1,57 @@
+{
+  "project_identity": {
+    "name": "",
+    "description": "",
+    "version": "",
+    "stack": [],
+    "architecture_summary": "",
+    "repo_url": "",
+    "created_at": ""
+  },
+
+  "sessions": [
+    {
+      "session_id": "session_001",
+      "timestamp": "",
+      "ai_agent": "",
+      "current_phase": "",
+      "progress": {
+        "completed": [],
+        "in_progress": [],
+        "blocked": []
+      },
+      "last_session_summary": "",
+      "changes_made": [],
+      "file_module_map": [
+        {
+          "file": "",
+          "purpose": "",
+          "last_modified": ""
+        }
+      ],
+      "decisions_log": [
+        {
+          "decision": "",
+          "reason": "",
+          "alternatives_considered": ""
+        }
+      ],
+      "known_issues": [
+        {
+          "issue": "",
+          "severity": "low | medium | high",
+          "status": "open | in-progress | resolved"
+        }
+      ],
+      "errors_encountered": [
+        {
+          "error": "",
+          "context": "",
+          "resolution": ""
+        }
+      ],
+      "next_steps": [],
+      "notes": ""
+    }
+  ]
+}
